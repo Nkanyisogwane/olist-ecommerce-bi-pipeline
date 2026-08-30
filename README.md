@@ -210,9 +210,7 @@ olist-ecommerce-bi-pipeline/
 │   ├── data_cleaning.py
 │   └── requirements.txt
 ├── sql/
-│   ├── 01_create_tables.sql
-│   ├── 02_star_schema_views.sql
-│   └── 03_analytical_queries.sql
+│   ├── tables_star-schema_queries.sql
 ├── power_bi/
 │   ├── Olist_Dashboard.pbix
 │   └── dax_measures_reference.md
@@ -244,4 +242,5 @@ olist-ecommerce-bi-pipeline/
 ## 👤 Author
 
 **Nkanyiso Gwane**
-[LinkedIn](#) · [GitHub](#)
+Email: Gwane.connect@gmail.com
+[LinkedIn](#https://www.linkedin.com/nkanyiso-gwane) · [GitHub](#https://www.github.com/nkanyisogwane)
