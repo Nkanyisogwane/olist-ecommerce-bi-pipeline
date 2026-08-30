@@ -35,7 +35,7 @@ analyst would actually own end-to-end, not just the visualization layer.
 High-level KPIs with year-over-year context, category and state
 breakdowns, and delivery-speed distribution — the "one page" view.
 
-![Executive Summary](screenshots/01_executive_summary.png)
+![Executive Summary](https://github.com/Nkanyisogwane/olist-ecommerce-bi-pipeline/blob/main/screenshots/01_executive-summary.png)
 
 ### Sales Performance
 Category and seller performance with a **dynamic field parameter**
