@@ -43,19 +43,19 @@ letting the viewer toggle the bar chart between Revenue, Orders, AOV,
 and Freight — plus a decomposition tree for revenue drill-down and
 payment method breakdown.
 
-![Sales Performance](screenshots/02_sales_performance.png)
+![Sales Performance](https://github.com/Nkanyisogwane/olist-ecommerce-bi-pipeline/blob/main/screenshots/02_sales_performance.png)
 
 ### Delivery & Logistics
 Regional delivery performance, delivery time by day of week, and a
 direct comparison of estimated vs. actual delivery time.
 
-![Delivery & Logistics](screenshots/03_delivery_logistics.png)
+![Delivery & Logistics](https://github.com/Nkanyisogwane/olist-ecommerce-bi-pipeline/blob/main/screenshots/03_delivery_logistics.png)
 
 ### Customer Satisfaction
 Review score trends, the delivery-speed-to-satisfaction relationship,
 and repeat customer analysis.
 
-![Customer Satisfaction](screenshots/04_customer_satisfaction.png)
+![Customer Satisfaction](https://github.com/Nkanyisogwane/olist-ecommerce-bi-pipeline/blob/main/screenshots/04_customer_satisfaction.png)
 
 ---
 
@@ -243,4 +243,4 @@ olist-ecommerce-bi-pipeline/
 
 **Nkanyiso Gwane**
 Email: Gwane.connect@gmail.com
-[LinkedIn](#https://www.linkedin.com/nkanyiso-gwane) · [GitHub](#https://www.github.com/nkanyisogwane)
+[LinkedIn](https://www.linkedin.com/nkanyiso-gwane) · [GitHub](https://www.github.com/nkanyisogwane)
