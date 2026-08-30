@@ -243,4 +243,4 @@ olist-ecommerce-bi-pipeline/
 
 **Nkanyiso Gwane**
 Email: Gwane.connect@gmail.com
-[LinkedIn](https://www.linkedin.com/nkanyiso-gwane) · [GitHub](https://www.github.com/nkanyisogwane)
+[LinkedIn](https://za.linkedin.com/in/nkanyiso-gwane) · [GitHub](https://www.github.com/nkanyisogwane)
